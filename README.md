@@ -1,4 +1,4 @@
-# Group 2 Analysis of Top Earned NBA Players
+# Group 2 NBA Top-Earner Analysis
 
 ## Goal
 
