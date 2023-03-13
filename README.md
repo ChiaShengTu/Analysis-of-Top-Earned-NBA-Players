@@ -1,4 +1,4 @@
-# Group 2 Midterm Project Report
+# Group 2 Analysis of Top Earned NBA Players
 
 ## Goal
 
